@@ -1,1 +1,1 @@
-# wordpress.github.io
+# wordpress
